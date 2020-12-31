@@ -1,6 +1,7 @@
 ## Hello, I'm Christina ♉
 ### SRE based in LA
 
+![](vibing_kirbs.gif)
 
 <!--
 **cchimienti/cchimienti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
